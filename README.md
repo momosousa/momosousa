@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... Front-end
 - 🌱 I’m currently learning ... HTML, CSS...
 - 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... @momonoomoi on twitter
 
 <!---
 momosousa/momosousa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
