@@ -1,4 +1,4 @@
-　　👋 Hi, I’m Mônica! (🇧🇷, 15yo)
+　👋 Hi, I’m Mônica! (🇧🇷, 15yo)
 
 - I’m interested in : Front-end Web Development
 - Currently learning : HTML, CSS, Bootstrap 5
