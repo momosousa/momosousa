@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mônica</h1>
 <h3 align="center">A tech lover from Brazil</h3>
 
-- 🌱 I’m currently learning **Python, SQL**
+- 🌱 I’m currently learning **Python, MySQL**
 
 - 📫 How to reach me **ms.monicasousa@hotmail.com**
 
