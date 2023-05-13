@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mônica</h1>
 <h3 align="center">A tech lover from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=momosousa&label=Profile%20views&color=0e75b6&style=flat" alt="momosousa" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=momosousa&label=Profile%20views&color=0e75b6&style=flat" alt="momosousa" /> </p>
 
 - 🌱 I’m currently learning **Python, PL/SQL, Computer Networks, Cybersecurity**
 
