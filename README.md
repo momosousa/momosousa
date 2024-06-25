@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mônica</h1>
-<h3 align="center">A tech lover from Brazil</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=momosousa&label=Profile%20views&color=0e75b6&style=flat" alt="momosousa" /> </p>
 
-- 🌱 I’m currently learning **Python, PL/SQL, Computer Networks, Cybersecurity**
+- 🌱 I’m currently learning **Python, PL/SQL**
 
 - 👨‍💻 All of my projects are available at [https://cursos.alura.com.br/vitrinedev/monicasousa](https://cursos.alura.com.br/vitrinedev/monicasousa)
 
